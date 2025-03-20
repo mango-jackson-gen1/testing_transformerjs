@@ -16,7 +16,7 @@ let angle = 0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   noFill();
-  stroke(255);
+  stroke("red");
 }
 
 function windowResized() {
