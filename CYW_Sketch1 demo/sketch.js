@@ -39,5 +39,7 @@ function draw() {
 
   circle(x, y, diam);
 
-  angle += 0.05;
+  angle += 0.1;
+
+  // angle += 0.05;
 }
